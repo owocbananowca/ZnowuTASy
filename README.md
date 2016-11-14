@@ -2,21 +2,15 @@
 
 Temat: Wybory elektroniczne
 
-Skład grupy: Banach Paweł i Zwolanowski Mateusz
+Skład grupy: Banach Paweł, Zwolanowski Mateusz, MArcin Kuskiewicz
 
 Terminy:
 
-  do 24.10  Pierwszy wspólny przyrost
-
-  do 14.11  Drugi wspólny przyrost
-
-  do 28.11  
-
-  do 12.12  
+  12.12 - Marcin Kuskiewicz
   
-do 09.01  
+  09.01 - Mateusz Zwolanowski
   
-do 23.01  
+  23.01 - Paweł Banach
   
   30.01     Oddanie projektu
 
